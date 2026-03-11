@@ -10,10 +10,9 @@ Heart Disease Analysis is a data analysis project that helps identify patterns a
 - Predict heart disease risk
 
 ## 🛠️ Technologies Used
+- Tableu
 - Python
-- Pandas
 - NumPy
-- Matplotlib / Seaborn
 - Jupyter Notebook
 
 ## 📂 Project Structure
